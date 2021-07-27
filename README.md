@@ -1,6 +1,6 @@
 # movieRama
 
-Instructions
+Instructions:
 
 To deploy the application in a wildfly server run the following maven command:
 
